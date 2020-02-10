@@ -185,10 +185,18 @@
     </div>
 
     
-
+    <div class="fixed-bottom">
+      <button class="btn1 btn btn-warning" onclick="topFunction()" id="myBtn" title="Go to top">Up</button>
+    </div>
 
     <script src="bootstrap/jquery-3.4.1.min.js"></script>
     <script src="bootstrap/popper.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script>
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+        };
+    </script>
 </body>
 </html>
