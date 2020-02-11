@@ -80,17 +80,17 @@ body{
     margin-top: -48px;
 }
 #card4{
-    background: url(./img/gym.jpg);
+    background: url(./img/mcd.jpg);
     background-size: cover;
     opacity: 0.9;
 }
 #card5{
-    background: url(./img/gym.jpg);
+    background: url(./img/wew.jpg);
     background-size: cover;
     opacity: 0.9;
 }
 #card6{
-    background: url(./img/gym.jpg);
+    background: url(./img/kk.jpg);
     background-size: cover;
     opacity: 0.9;
 }
@@ -114,19 +114,23 @@ body{
 #home-tab, #profile-tab,#contact-tab,#ppsr-tab{
     color:#dddddd !important;
     border:none;
-    /* border-bottom: none; */
     background-color: rgb(27, 23, 23);
 }
 #konten5{
     background-color: rgb(27, 23, 23);
+    /* height: 500px; */
 }
-.table1{
+.table1, .table2{
     height:80px;
 }
 .table{
     background-color: rgb(27, 23, 23);
     color: #fff;
+    border: none;
 }
 .table-bordered{
-    border:2px solid rgb(27, 23, 23);
+    /* border:2px solid rgb(27, 23, 23); */
+}
+.judul{
+    border: none;
 }
