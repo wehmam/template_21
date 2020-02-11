@@ -111,3 +111,22 @@ body{
     /* width: 20px; */
     margin-left: 20px;
 }
+#home-tab, #profile-tab,#contact-tab,#ppsr-tab{
+    color:#dddddd !important;
+    border:none;
+    /* border-bottom: none; */
+    background-color: rgb(27, 23, 23);
+}
+#konten5{
+    background-color: rgb(27, 23, 23);
+}
+.table1{
+    height:80px;
+}
+.table{
+    background-color: rgb(27, 23, 23);
+    color: #fff;
+}
+.table-bordered{
+    border:2px solid rgb(27, 23, 23);
+}
