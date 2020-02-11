@@ -108,7 +108,6 @@ body{
 .btn1:hover{
     border-radius: 40px;
     transform: rotate(350deg);
-    /* width: 20px; */
     margin-left: 20px;
 }
 #home-tab, #profile-tab,#contact-tab,#ppsr-tab{
@@ -116,11 +115,14 @@ body{
     border:none;
     background-color: rgb(27, 23, 23);
 }
+#home-tab:hover, #profile-tab:hover,#contact-tab:hover,#ppsr-tab:hover{
+    background-color: rgb(209, 83, 25);
+}
 #konten5{
     background-color: rgb(27, 23, 23);
     /* height: 500px; */
 }
-.table1, .table2{
+.table1, .table2 ,.table3 , .table4{
     height:80px;
 }
 .table{
