@@ -76,7 +76,7 @@ body{
     margin-top: -50px;
     color: #fff;
 }
-#konten5{
+#konten55{
     margin-top: -48px;
 }
 #card4{
@@ -105,11 +105,6 @@ body{
     float: right;
     /* transition: 2s; */
 }
-.btn1:hover{
-    border-radius: 40px;
-    transform: rotate(350deg);
-    margin-left: 20px;
-}
 #home-tab, #profile-tab,#contact-tab,#ppsr-tab{
     color:#dddddd !important;
     border:none;
@@ -120,7 +115,7 @@ body{
 }
 #konten5{
     background-color: rgb(27, 23, 23);
-    height: 600px;
+    /* height: 600px; */
 }
 .table1, .table2 ,.table3 , .table4{
     height:80px;
